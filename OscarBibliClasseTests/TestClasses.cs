@@ -40,6 +40,7 @@ namespace OscarBibliClasseTests
 
         }
 
+        [TestMethod]
         public void TestCrypto()
         {
             //Act
